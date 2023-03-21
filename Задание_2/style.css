@@ -1,0 +1,16 @@
+button {
+    display: flex;
+    height: 30px;
+    align-items: center;
+    margin: 25px;
+    color: white;
+    background: #315efb;
+    font-weight: bold;
+    border-radius: 17px;
+}
+.btn-icon {
+    margin-left: 6px;
+    width: 15px;
+    height: 15px;
+    font-size: 15px;
+}
